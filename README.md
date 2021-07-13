@@ -6,9 +6,9 @@
 처음으로 접하는 intellij를 처음으로 접해보는 만큼 할 수 있는 선에서 노력을 하고자합니다.
 
  - 개발도구
-  - GIT
-  - OpenJDK 11
-  - Springboot 2.5.2
-  - Intellij
+   - GIT
+   - OpenJDK 11
+   - Springboot 2.5.2
+   - Intellij
  - 구현해보고 싶은것
-  - 
+   - 
